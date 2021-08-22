@@ -1,0 +1,11 @@
+import CONFIG from './config'
+
+const API_ENDPOINT = {
+  LIST_RESTAURANT: `${CONFIG.BASE_URL}/list`,
+  LIST_RESTAURANT_IMG_S: `${CONFIG.BASE_URL_IMG_S}`,
+  LIST_RESTAURANT_IMG_M: `${CONFIG.BASE_URL_IMG_M}`,
+  LIST_RESTAURANT_IMG_L: `${CONFIG.BASE_URL_IMG_L}`,
+  DETAIL: (id) => `${CONFIG.BASE_URL}detail/${id}`
+}
+
+export default API_ENDPOINT

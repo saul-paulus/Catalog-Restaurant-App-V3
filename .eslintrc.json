@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "jasmine": true,
+        "codeceptjs/codeceptjs": true
+    },
+    "extends": [
+        "standard",
+        "plugin:codeceptjs/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": ["jasmine", "codeceptjs"],
+    "rules": {
+    }
+}
