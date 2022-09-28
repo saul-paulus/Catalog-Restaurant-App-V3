@@ -4,11 +4,15 @@
 #### _Submission ke 3_
 Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari dicoding.com App ini merupakan app submission ke 3 supaya dapat lulus dari kelas Front-end Expert Dicoding
 
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express) 
 
-## Teknolog
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+
+
+[![Saul-Paulus github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/saul-paulus/github-readme-stats)
+
+## Teknologi
  - Javascript
- - Nodejs
  - Webpack
  - Menerapkan prinsip PWA
  - Menerapkan Image Optimization
