@@ -6,6 +6,15 @@ Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari
 
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 
+## Teknolog
+ - Javascript
+ - Nodejs
+ - Webpack
+ - Menerapkan prinsip PWA
+ - Menerapkan Image Optimization
+ - Menerapkan Bundle Optimization
+ 
+
 ## Kriteria App
 App ini dibangun haruslah memenuhi beberapa kriteria ini agar supaya dapat memenuhi persyaratan lulus:
 1. Integration Test
