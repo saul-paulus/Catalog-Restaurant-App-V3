@@ -8,9 +8,6 @@ Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
-
-[![Saul-Paulus github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/saul-paulus/github-readme-stats)
-
 ## Teknologi
  - Javascript
  - Webpack
