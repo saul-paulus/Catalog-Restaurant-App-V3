@@ -1,12 +1,12 @@
-# Katalog Restauran App
+# Katalog Restaurant App
 
-Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari dicoding.com
-App ini merupakan app submission ke 3 supaya dapat lulus dari kelas Front-end Expert Dicoding
+#### _Front-end Expert Dicoding_
+Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari dicoding.com App ini merupakan app submission ke 3 supaya dapat lulus dari kelas Front-end Expert Dicoding
 
-------------------------------------------
-# Kriteria
-Fitur yang harus ada pada aplikasi:
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 
+## Kriteria App
+App ini dibangun haruslah memenuhi beberapa kriteria ini agar supaya dapat memenuhi persyaratan lulus:
 1. Integration Test
    Syarat:
    Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran.
@@ -26,8 +26,19 @@ Fitur yang harus ada pada aplikasi:
    Gunakan teknik Code Splitting untuk memisahkan vendor code dari kode asli yang Anda tuliskan.
    Pertahankan syarat yang ada pada submission sebelumnya. Seperti penerapan PWA, responsibilitas tampilan,  aksesibilitas pada website dan sebagainya.
 
+## Features Katalog Restaurant App
+- Dapat menyimpan restaurant yang dipilih
 
-Jika ingin menjalnkan aplikasi, 
-1. Setelah selesai clone
-2. npm install
-3. npm run start-dev
+## Installation
+
+- clone app di https://github.com/saul-paulus/dicoding_front-end-expert-3.git
+- Extrak file
+- Masuk ke dalam folder app
+- Jalankan NPM Install
+- Jalankan NPM start-dev
+
+
+## License
+
+MIT
+
