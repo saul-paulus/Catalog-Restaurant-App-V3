@@ -1,6 +1,7 @@
 # Katalog Restaurant App
 
 #### _Front-end Expert Dicoding_
+#### _Submission ke 3_
 Ini adalah aplikasi yang dibangun dengan memanfaatkan API katalog restauran dari dicoding.com App ini merupakan app submission ke 3 supaya dapat lulus dari kelas Front-end Expert Dicoding
 
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
